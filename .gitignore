@@ -30,3 +30,4 @@ Thumbs.db
 public
 # Folders to ignore
 node_modules
+.hugo_build.lock
